@@ -1,0 +1,17 @@
+.p1{
+    column-count: 2;
+	column-gap: 50px;
+	column-rule: 1px solid #d51b1b
+}
+.img1{
+	width: 300px;
+}
+.img2{
+	width: 350px;
+}
+.img3{
+	width: 325px;
+}
+.img4{
+	width: 300px;
+}
